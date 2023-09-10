@@ -1,6 +1,5 @@
 # Country-War-Simulator
 
-<h1>Conquest Game</h1>
 Welcome to the Conquest Game repository! This is a two-player strategy-based game where players aim to conquer each other's land using a variety of military equipment. The game involves careful planning and decision-making, as every move made against your opponent can have both advantages and disadvantages. Victory in this game is achieved by accumulating the most military equipment and money.
 
 <h2>Features</h2> 
